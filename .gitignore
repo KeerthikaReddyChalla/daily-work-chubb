@@ -1,0 +1,22 @@
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Build output
+bin/
+
+# Temporary files
+*.log
+*.tmp
+
+# OS-specific files
+# Windows
+Thumbs.db
+desktop.ini
+
+# macOS
+.DS_Store
+
+# Java-specific
+*.class
